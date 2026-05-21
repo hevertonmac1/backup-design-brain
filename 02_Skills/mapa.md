@@ -1,13 +1,14 @@
 # Mapa — 02_Skills
 
-## Propósito
-Playbooks operacionais prontos para execução. Cada skill detalha um processo específico da Backup Design — de como prospectar até como fazer deploy seguro em reunião comercial. Leia a skill correspondente antes de executar qualquer processo descrito nela.
+## Proposito
+Playbooks operacionais prontos para execucao. Cada skill detalha um processo especifico da Backup Design. Leia a skill correspondente antes de executar qualquer processo descrito nela.
 
 ## Arquivos Atuais
 
-| Arquivo | Descrição |
+| Arquivo | Descricao |
 |---|---|
-| `skill_01_prospeccao_e_vendas.md` | Estratégia "Land and Expand" (Cavalo de Troia): mapeamento de vazamento de tráfego, construção de isca em código, abordagem C-Level, fechamento com fee atrelado ao resultado e expansão por indicação. Inclui protocolo de condução de reunião comercial (método "Walk the Talk"). |
-| `skill_02_conversion_framework.md` | The Conversion Framework: fases de entrega (Friction Audit, Strategic Flow, Proof of Concept, Growth Loop) e aplicação do "Modo Explorador" — onboarding progressivo para contornar barreiras regulatórias do Banco Central sem sacrificar conversão. |
-| `skill_03_inbound_e_twitter.md` | Funil product-led com o Scorecard como lead magnet. Playbook de criação de threads no X (Twitter): UX Teardowns de produtos gigantes (Stripe, Nubank) com narrativa focada em negócios e CTA para a ferramenta de Scorecard. |
-| `skill_04_apresentacao_tecnica.md` | Protocolo de deploy seguro para apresentações comerciais: desenvolvimento em localhost, staging em URL oculta (Vercel/Netlify) e regra de ouro — apresentar exclusivamente via link de produção, nunca em ambiente local. |
+| `skill_01_prospeccao_e_vendas.md` | Estrategia "Land and Expand" (Cavalo de Troia): mapeamento de vazamento de trafego, construcao de isca em codigo, abordagem C-Level, fechamento e expansao por indicacao. Inclui protocolo de conducao de reuniao comercial (metodo "Walk the Talk"). |
+| `skill_02_conversion_framework.md` | The Conversion Framework: fases de entrega (Friction Audit, Strategic Flow, Proof of Concept, Growth Loop) e aplicacao do "Modo Explorador" — onboarding progressivo para contornar barreiras regulatorias do Banco Central. |
+| `skill_03_inbound_e_twitter.md` | Funil product-led com o Scorecard como lead magnet. Playbook de criacao de threads no X (Twitter): UX Teardowns de produtos gigantes com narrativa focada em negocios e CTA para a ferramenta de Scorecard. |
+| `skill_04_apresentacao_tecnica.md` | Protocolo de deploy seguro para apresentacoes comerciais: desenvolvimento em localhost, staging em URL oculta (Vercel/Netlify) e regra de ouro — apresentar exclusivamente via link de producao. |
+| `skill_05_expansao_ecossistema_baas.md` | Estrategia de expansao para o ecossistema BaaS da Fourbank: 17 empresas mapeadas, criterio de classificacao ICP (B2B vs B2C), posicionamento do site como ferramenta matematica e regras de governanca de SEO (risco de PBN). |
