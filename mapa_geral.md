@@ -1,4 +1,4 @@
-# Mapa Geral — Segundo Cérebro da Backup Design
+# Mapa Geral — Segundo Cerebro da Backup Design
 
 ## Identidade
 Este repositório é o sistema de memória operacional da **Backup Design**, agência AI First especializada em Design e Engenharia para o mercado de Fintechs. Toda IA que operar neste repositório deve ler este arquivo primeiro para orientar suas ações com precisão estratégica e consistência de contexto.
@@ -15,9 +15,10 @@ Cada pasta contém um arquivo `mapa.md` que descreve seu propósito e lista seus
 | `02_Skills/` | Playbooks operacionais: vendas, entrega, inbound e protocolo técnico |
 | `03_Arquivos_Cold_Storage/` | Documentos históricos, versões antigas e referências arquivadas |
 | `04_Clientes_Ativos/` | Contexto e documentação de cada cliente em operação ativa |
+| `05_Projetos/` | Estudos e documentos de projetos externos onde a Backup Design atua como sócia ou parceira estratégica |
 
 ## Liderança
 Heverton Andrade Maciel — Founder, Head of Design e Design Engineer
 
 ## Time de Execução
-Igor, Bárbara, Rafael, Rhyan, Sérgio e Filipe
+Igor, Barbara, Rafael, Rhyan, Sergio e Filipe
