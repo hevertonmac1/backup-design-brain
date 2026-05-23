@@ -1,18 +1,31 @@
-# Mapa — 05_Projetos/Valory
+# Mapa — VALORY
 
-## Sobre o Projeto
-VALORY é um Hub de Inteligência e Mastermind High Ticket focado na elite da cafeicultura de alta qualidade do Cerrado Mineiro. A Backup Design participa como sócia tecnológica responsável por engenharia de design, plataforma e integrações de IA.
+## Status
 
-## Status Atual
-Fase de estudo estratégico e negociação de entrada societária. Nenhum contrato assinado ainda.
+NEGOCIACAO DE ENTRADA NA SOCIEDADE — mai/2026
+
+## Contexto
+
+Hub de Inteligencia e Mastermind High Ticket para cafeicultores do Cerrado Mineiro (Monte Carmelo, MG).
+Heverton entra como Socio Administrativo (Administrativo Geral).
+Backup Design entra como parceira tecnologica e aceleradora oficial.
+
+## Socios
+
+- Eduardo Soares — Revista Repleta + Estudio de gravacao
+- Luiz Gustavo Silva Rabelo — Governanca financeira
+- Miqueias Mauricio de Azevedo — Trafego pago e marketing
+- Fabio Henrique Gomes — Plataforma digital e automacoes
+- Priscila Loire da Silva — Embaixadora institucional / relacionamento VIP
+- Heverton Andrade — Socio Administrativo / Backup Design (tecnologia e IA)
+
+## Pendencias Antes de Assinar
+
+- [ ] Aprovar redesign de marca (nova identidade premium — Backup Design executa)
+- [ ] Reestruturar cadeiras no contrato — remover omissoes do setor administrativo anterior (Renan)
+- [ ] Definir quotas e poder de deliberacao de Heverton desde o Dia 1
+- [ ] Formalizar contrato intercompany: Backup Design como fornecedora tecnologica da VALORY (licenciamento ou comissao por assinatura)
 
 ## Arquivos
 
-| Arquivo | Descrição |
-|---|---|
-| `01_Planejamento_Estrategico_Valory.md` | Estudo inicial completo: posicionamento, ecossistema de sócios, arquitetura de planos (R$6k a R$80k/ano), viabilidade financeira, breakeven e próximos passos de governança para Heverton |
-
-## Proximos Passos (extraidos do documento)
-- Aprovar redesign da marca (substituir identidade amadora por visual premium)
-- Reestruturar cadeiras no contrato societário com quotas e poder de deliberação claros
-- Assinar contrato de prestacao de servicos intercompany Backup Design x VALORY
+- 01_Planejamento_Estrategico_Valory.md — Planejamento completo: posicionamento, planos, viabilidade financeira, estrategia de execucao bootstrap.
