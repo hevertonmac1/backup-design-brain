@@ -1,13 +1,5 @@
-# Mapa — 04_Clientes_Ativos/DespachaTudo
+# Mapa — DespachaTudo
 
-## Propósito
-Pasta de contexto operacional do cliente DespachaTudo. Contém todas as informações estratégicas, histórico de projeto e materiais relevantes para execução das entregas.
+## Arquivos neste diretório
 
-## Arquivos
-
-| Arquivo | Descrição |
-|---|---|
-| `contexto_cliente.md` | Informações estratégicas do cliente: status, nicho, modelo comercial e histórico relevante |
-
-## Regra Operacional
-Leia o `contexto_cliente.md` antes de qualquer operação relacionada a este cliente.
+- `contexto_cliente.md` — Contexto completo do projeto: time, stack, bloqueios, histórico
