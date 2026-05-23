@@ -1,16 +1,10 @@
 # Mapa — 00_Inbox
 
-## Propósito
-Area de entrada para rascunhos, outputs brutos de IAs externas e qualquer conteúdo que ainda nao foi triado, validado ou classificado. Nada aqui é definitivo. Todo arquivo deve ser revisado e movido para a pasta correta após triagem.
+Pasta de entrada temporaria. Arquivos aqui aguardam classificacao ou sao documentos de inteligencia recente.
 
-## Regra Operacional
-Antes de mover um arquivo desta pasta, leia seu conteúdo e classifique para qual pasta de destino ele pertence (01 a 05). Nunca deixe arquivos aqui por mais de um ciclo de trabalho sem triagem.
+## Arquivos
 
-## Arquivos Atuais
-
-| Arquivo | Descrição |
-|---|---|
-| `gemini-code-1778943030495.md` | Output bruto gerado pelo Gemini — aguarda triagem |
-| `gemini-code-1778943201458.md` | Output bruto gerado pelo Gemini — aguarda triagem |
-| `gemini-code-1778943212834.md` | Output bruto gerado pelo Gemini — aguarda triagem |
-| `gemini-code-1778943482700.md` | Output bruto gerado pelo Gemini — aguarda triagem |
+- inteligencia_email_smartleader_mar_mai_2026.md — Inteligencia extraida do email Smartleader (reunioes, decisoes, alertas)
+- inteligencia_email_pessoal_jan25_mai26.md — Inteligencia extraida do Gmail pessoal (18 meses): clientes internacionais, Medportal, Prax, financas, ingles
+- gemini-code-assist-tips.md — Dicas do Gemini Code Assist (a classificar)
+- gemini-code-assist-update.md — Atualizacao do Gemini Code Assist (a classificar)

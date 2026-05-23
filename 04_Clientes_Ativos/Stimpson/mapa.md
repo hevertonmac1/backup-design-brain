@@ -1,13 +1,7 @@
-# Mapa — 04_Clientes_Ativos/Stimpson
+# Mapa — Stimpson
 
-## Propósito
-Pasta de contexto operacional do cliente Stimpson. Contém todas as informações estratégicas, histórico de projeto e materiais relevantes para execução das entregas.
+Cliente internacional ativo, intermediado por Gerard Rogan (Dreamweaver Brand).
 
 ## Arquivos
 
-| Arquivo | Descrição |
-|---|---|
-| `contexto_cliente.md` | Informações estratégicas do cliente: status, nicho, modelo comercial e histórico relevante |
-
-## Regra Operacional
-Leia o `contexto_cliente.md` antes de qualquer operação relacionada a este cliente.
+- contexto_cliente.md — Contexto completo: publicacoes alvo, projetos executados, especificacoes tecnicas

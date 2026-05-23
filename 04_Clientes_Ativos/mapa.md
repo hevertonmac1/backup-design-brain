@@ -1,16 +1,10 @@
 # Mapa — 04_Clientes_Ativos
 
-## Propósito
-Repositório de contexto de cada cliente em operação ativa. Cada cliente possui uma subpasta própria contendo seu `mapa.md` (orientações de navegação) e `contexto_cliente.md` (informações estratégicas, status do projeto, modelo comercial e histórico relevante).
+Clientes com contratos ou projetos em andamento. Cada subpasta tem seu proprio mapa.md.
 
-## Regra Operacional
-Antes de executar qualquer tarefa relacionada a um cliente, leia o `contexto_cliente.md` correspondente. Nunca misture contexto de clientes diferentes em uma mesma operação.
+## Clientes
 
-## Clientes Ativos
-
-| Pasta | Cliente |
-|---|---|
-| `Fourbank/` | Cliente Zero — case de validação da estratégia Land and Expand |
-| `Wicks/` | Aguarda briefing |
-| `Stimpson/` | Aguarda briefing |
-| `DespachaTudo/` | Aguarda briefing |
+- Fourbank/ — Fintech brasileira. Cliente Zero, modelo Land & Expand. Setup R$0 + MRR R$5k apos primeiro lead.
+- Wicks/ — Produto industrial americano (via Gerard Rogan / Dreamweaver Brand). Pagamentos mensais via Contra.com.
+- Stimpson/ — Fabricante de fixadores metalicos (via Gerard Rogan). Anuncios impressos para revistas especializadas.
+- DespachaTudo/ — (a documentar)
