@@ -1,51 +1,87 @@
 # Wicks Unlimited — Contexto do Cliente
 
+**Status**: ATIVO — contrato de design por assinatura
+**Valor**: $895 dolares/mes (para Backup Design)
+**Intermediario**: Gerard Rogan (Dreamweaver Brand Communications)
+**Plataforma de faturamento**: Contra.com
+
+---
+
 ## Identificacao
 
-- **Empresa:** Wicks Unlimited
-- **Intermediario:** Gerard Rogan (Dreamweaver Brand Communications)
-- **Email Gerard:** gerard@dreamweaverbrand.com
-- **Localizacao:** Florida, EUA
-- **Canal de comunicacao:** Email (ingles)
-- **Plataforma de faturamento:** Contra.com
-- **Pagamento adicional:** PayPal (hevertonmac@gmail.com)
+- **Empresa**: Wicks Unlimited
+- **Setor**: Produtos industriais (EUA)
+- **Localizacao**: Florida, EUA
+- **Email Gerard**: gerard@dreamweaverbrand.com
+- **Canal de comunicacao**: Email (ingles)
+- **Pagamento adicional historico**: PayPal (hevertonmac@gmail.com)
 
-## Status
+---
 
-Ativo. Projetos recorrentes mensais desde janeiro/2026 com pagamentos regulares via Contra.com.
+## Origem do Relacionamento
 
-## Modelo de Relacionamento
+Heverton conheceu Gerard Rogan ha **aproximadamente 6 anos** (por volta de 2019-2020) atraves da plataforma **99designs**. Heverton participou de um concurso de design promovido por Gerard e **venceu o concurso**. A partir dessa vitoria, iniciou uma relacao de servicos pontuais e freelances. Em **2025**, o modelo evoluiu para **design por assinatura** com valor fixo mensal — modelo que permanece ativo ate hoje.
 
-Heverton nao atende Wicks Unlimited diretamente. O relacionamento e intermediado por Gerard Rogan, Managing Director da Dreamweaver Brand Communications. Gerard e quem recebe a aprovacao dos clientes finais e repassa os briefings para Heverton.
+Gerard trabalha para Wicks Unlimited e Stimpson, e contrata Heverton no Brasil como parceiro de design para ambos os clientes.
 
-## Projetos em Execucao
+---
 
-### Product Guide / Catalogo (Projeto Principal - Jan a Abr 2026)
-- Catalogo de produtos da Wicks Unlimited com 36+ paginas
-- Inclui cover, paginas de texto, tabelas, paginas de produto com imagem
-- Atualizacoes de logotipo com simbolo de registro (R), atualizacoes de verbagem ISO
-- Arquivos entregues em print-ready com bleeds e crop marks
-- Feedback do cliente: "They really liked how it is looking so far"
-- O produto foi exibido em evento (show) - aprovado apos impressao
-- Contato direto do cliente final: Jenny (responsavel pelas aprovacoes de logo)
+## Papel de Heverton
 
-### PDF Sheets / Fichas de Produto (Abr 2026)
+**Cargo**: Designer Grafico / Design por Assinatura
+**Execucao**: Heverton realiza pessoalmente as atividades (demanda e baixa — comporta execucao solo)
+**Gestao do cliente**: Gerard Rogan (ponto unico de contato)
+
+Heverton **nao atende Wicks diretamente** — toda comunicacao passa por Gerard, que repassa briefings e coleta aprovacoes dos clientes finais.
+
+---
+
+## Modelo de Contrato
+
+- **Tipo**: Design por assinatura (retainer mensal)
+- **Valor**: $895/mes
+- **Pagamento via**: Contra.com (mensal, regular)
+- **Moeda**: Dolares americanos
+
+---
+
+## Projetos Executados
+
+### Product Guide / Catalogo (Principal — Jan a Abr/2026)
+- Catalogo de produtos com 36+ paginas
+- Cover, paginas de texto, tabelas, paginas de produto com imagem
+- Atualizacoes de logotipo com simbolo de registro (R)
+- Atualizacoes de verbagem ISO
+- Arquivos entregues print-ready com bleeds e crop marks
+- Exibido em evento (show) — aprovado pelo cliente apos impressao
+- Contato final do cliente: Jenny (responsavel pelas aprovacoes de logo)
+
+### PDF Sheets / Fichas de Produto (Abr/2026)
 - Atualizacao de verbagem ISO em fichas de produto individuais
 
-## Pagamentos Confirmados (via Contra.com)
+---
 
-- Fevereiro 2026: pago (confirmado em 02/03/2026)
-- Marco 2026: pago (confirmado em 31/03/2026)
-- Abril 2026: pago (confirmado em 13/04/2026)
-- Maio 2026: pago em 06-07/05/2026
+## Pagamentos Confirmados (Contra.com)
+
+| Mes | Status |
+|---|---|
+| Fevereiro 2026 | Pago (02/03/2026) |
+| Marco 2026 | Pago (31/03/2026) |
+| Abril 2026 | Pago (13/04/2026) |
+| Maio 2026 | Pago (06-07/05/2026) |
+
+---
 
 ## Ferramentas de Trabalho
 
-- Adobe Acrobat (comparacao de PDFs, edicao)
-- OneDrive para entrega de arquivos
-- Google Drive (compartilhamento de documentos de briefing)
+- Adobe Acrobat (edicao de PDF, comparacao de versoes)
+- OneDrive (entrega de arquivos)
+- Google Drive (documentos de briefing)
 
-## Proximos Passos
+---
 
-- Gerard sinalizou "interesting work coming up" em 06/05/2026
-- Manter disponibilidade para novos projetos
+## Notas
+
+- Gerard sinalizou "interesting work coming up" em mai/2026 — nova demanda prevista
+- Relacionamento de longo prazo (~6 anos) com alto nivel de confianca
+- Demanda baixa — nao exige equipe, Heverton executa sozinho

@@ -1,68 +1,103 @@
-# Contexto do Projeto — DespachaTudo APP
+# Contexto do Projeto — DespachaTudo
 
-## Identificação
+**Status**: EM DESENVOLVIMENTO — pre-lancamento
+**Natureza**: Startup co-fundada por Heverton (50% de participacao societaria)
+**Site**: https://www.despachatudo.com.br
+**Figma**: https://www.figma.com/design/PwyylsADkSRTK1kT26hxfz/DespachaTudo
+**Entrada no projeto**: fev/2026
 
-- **Natureza**: Startup / produto digital em co-construção (não cliente convencional)
-- **Papel de Heverton**: Designer e PM (gerenciamento de produto e design)
-- **Status atual**: MVP em produção, bloqueio crítico no WhatsApp API (mai/2026)
-- **Site**: https://www.despachatudo.com.br
-- **Figma**: https://www.figma.com/design/PwyylsADkSRTK1kT26hxfz/DespachaTudo
-- **Data de entrada**: fev/2026 (primeiras conversas registradas 06/02/2026)
+---
 
-## Proposta de Valor
+## Posicionamento de Heverton
 
-Aplicativo para despachantes (agentes de habilitação e licenciamento veicular). Automatiza atendimento via WhatsApp Business API com chatbot GPT, reduzindo tempo de resposta e aumentando conversão de clientes.
+Heverton e **socio com 50% do negocio** e tambem **socio que trabalha** no projeto:
+- Gestao geral e estrategia do produto
+- Gestao da equipe (Rafael, Lucio, Marcela)
+- Design completo do produto (UI/UX, Figma)
+- Administracao e tomada de decisao
+
+O outro 50% pertence a **Mauricio Primo** (fundador e financiador).
+
+---
+
+## Produto — O que e o DespachaTudo
+
+Sistema completo para o **nicho de despachantes** (agentes de habilitacao e licenciamento veicular no Brasil).
+
+### Modulos previstos
+
+**1. Chatbot de Atendimento (Modulo Inicial — lancamento)**
+- Chatbot interativo integrado ao ChatGPT
+- Atendimento automatico de clientes via WhatsApp Business API (WABA)
+- Suporte, tiragem de duvidas e atendimento ao publico de forma autonoma
+- Integrado via Typebot
+
+**2. Consultas Avancadas**
+- Consultas em dados de veiculos e condutores
+- Acesso a informacoes detalhadas do DETRAN e bases afins
+- Ferramenta de pesquisa para uso interno dos despachantes
+
+**3. CRM — Gestao de Clientes**
+- Gerenciamento completo da carteira de clientes do despachante
+- Historico de atendimentos, documentos, processos
+
+**4. Modulo Garajeiro (em estudo)**
+- Publico-alvo diferente: donos de garagem / comerciantes de veiculos
+- Funcionalidades: controle de carros, multas, IPVA, compras e vendas
+- Heverton esta avaliando se sera um **modulo separado** ou uma **secao dentro do sistema**
+- Objetivo: segmentar os dois publicos sem criar dois produtos distintos
+
+### Estrategia de Lancamento (sequencia planejada)
+1. **Fase 1**: Chatbot de atendimento WhatsApp (primeiro a entrar no ar)
+2. **Fase 2**: Consultas avancadas de veiculos e condutores
+3. **Fase 3**: CRM e gestao de clientes
+4. **Fase 4**: Modulo Garajeiro (apos definir arquitetura de segmentacao)
+
+---
 
 ## Time do Projeto
 
 | Pessoa | Papel | Contato |
 |---|---|---|
-| Maurício Primo | Fundador / financiador | WhatsApp (número que detém o WABA) |
-| Heverton | Designer / PM | hevertonmac@gmail.com |
+| Mauricio Primo | Co-fundador (50%) / financiador | WhatsApp (titular do numero WABA) |
+| Heverton | Co-fundador (50%) / Gestor / Designer | hevertonmac@gmail.com |
 | Rafael Macedo | Desenvolvedor full-stack | Desenvolveu site + chatbot |
-| Lúcio Vieira | Marketing / Meta setup | Configurou Business Manager Meta |
-| Marcela Santana | Jurídico / legal | Emitiu NF para Backup Design (R$2.000 abr/2026) |
+| Lucio Vieira | Marketing / Meta / WABA setup | Configurou Business Manager Meta |
+| Marcela Santana | Juridico / legal | Emitiu NF para Backup Design (R$2.000 abr/2026) |
 
-## Stack Tecnológica
+---
 
-- **Chatbot**: GPT integrado via Typebot
+## Stack Tecnologica
+
+- **Chatbot**: GPT via Typebot
 - **WhatsApp**: Meta WhatsApp Business API (WABA)
-- **Site**: despachatudo.com.br (servidor gratuito — tier free, sujeito a limitações)
-- **Design**: Figma (protótipo completo disponível)
-- **Hospedagem atual**: servidor gratuito (ponto de atenção para escalabilidade)
+- **Site**: despachatudo.com.br
+- **Design**: Figma (prototipo completo)
 
-## Histórico de Marcos (fev–mai/2026)
+---
 
-- **Fev/2026**: Início do projeto, primeiros alinhamentos de produto e design
-- **Mar/2026**: Prototipação no Figma, definição do fluxo do chatbot
-- **Abr/2026**: Marcela Santana emite NF — Backup Design recebe R$2.000 pelo trabalho
-- **Mai/2026**: Site no ar (despachatudo.com.br). Rafael finaliza integração do chatbot. Lúcio configura o Business Manager da Meta.
+## Cronologia
 
-## Bloqueio Crítico (status em 22/05/2026)
+| Data | Marco |
+|---|---|
+| Fev/2026 | Inicio do projeto e primeiros alinhamentos |
+| Mar/2026 | Prototipacao no Figma, definicao do fluxo do chatbot |
+| Abr/2026 | NF emitida — Backup Design recebe R$2.000 via Marcela Santana |
+| Mai/2026 | Site no ar. Rafael finaliza integracao do chatbot. WABA desbloqueado — API liberada para Rafael |
 
-**Problema**: O token de acesso do WhatsApp Business API ainda não foi gerado/verificado.
+---
 
-**Causa raiz**:
-1. Lúcio criou um novo Business Manager (BM) na Meta
-2. O número de WhatsApp que será vinculado ao WABA pertence a Maurício Primo
-3. A verificação do número exige ação direta de Maurício (receber código no celular)
-4. Rafael aguarda o token/secret para conectar o chatbot — sem isso o sistema não funciona de ponta a ponta
+## Financeiro
 
-**Próximos passos para desbloquear**:
-- Maurício deve acessar o Meta BM criado por Lúcio
-- Verificar o número no fluxo oficial do WhatsApp Business API
-- Lúcio gerar o token permanente e repassar para Rafael
-- Rafael finalizar a conexão Typebot ↔ WABA
+- Heverton e socio — sua remuneracao sera sobre os resultados do negocio (nao honorario fixo por ora)
+- NF emitida em abr/2026: R$2.000 (adiantamento/servicos de design via Backup Design LTDA)
+- Modelo de receita do produto: a definir (provavelmente SaaS por assinatura)
 
-## Modelo Comercial / Remuneração
+---
 
-- Heverton não tem participação societária documentada nesta fase
-- Recebimento via NF emitida pela Backup Design LTDA (Marcela Santana pagou R$2.000 em abr/2026)
-- Modelo de continuidade não definido explicitamente nas conversas analisadas
+## Notas Estrategicas
 
-## Observações Estratégicas
-
-- Servidor gratuito é um risco para o MVP — ao crescer, haverá necessidade de upgrade de infraestrutura
-- O produto tem potencial real: despachantes são um nicho com volume e recorrência
-- Heverton acumula design + PM, o que aumenta seu valor e sua carga
-- A dependência de Maurício para o número WABA é o único bloqueio técnico restante
+- O produto tem potencial real: nicho de despachantes tem volume, recorrencia e baixa digitalizacao
+- Heverton acumula design + gestao + sociedade — posicionamento de founder-designer
+- A decisao sobre o Modulo Garajeiro (separado vs. sessao integrada) e critica para a arquitetura do produto
+- Servidor e infraestrutura devem ser avaliados antes do lancamento para suportar escala

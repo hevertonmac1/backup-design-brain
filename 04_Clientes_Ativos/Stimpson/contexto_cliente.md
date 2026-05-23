@@ -1,50 +1,78 @@
 # Stimpson — Contexto do Cliente
 
+**Status**: ATIVO — contrato de design por assinatura
+**Valor**: $895 dolares/mes (para Backup Design)
+**Intermediario**: Gerard Rogan (Dreamweaver Brand Communications)
+**Plataforma de faturamento**: Contra.com
+
+---
+
 ## Identificacao
 
-- **Empresa:** Stimpson (fabricante de ilhos, rebites e fixadores metalicos)
-- **Intermediario:** Gerard Rogan (Dreamweaver Brand Communications)
-- **Email Gerard:** gerard@dreamweaverbrand.com
-- **Localizacao:** EUA
-- **Canal de comunicacao:** Email (ingles)
-- **Plataforma de faturamento:** Contra.com
+- **Empresa**: Stimpson
+- **Setor**: Fabricante de ilhos, rebites e fixadores metalicos (EUA)
+- **Email Gerard**: gerard@dreamweaverbrand.com
+- **Canal de comunicacao**: Email (ingles)
 
-## Status
+---
 
-Ativo. Demandas recorrentes de atualizacao de anuncios publicitarios para revistas especializadas.
+## Origem do Relacionamento
 
-## Modelo de Relacionamento
+Mesmo historico da Wicks Unlimited. Gerard Rogan encontrou Heverton ha **~6 anos** via **99designs** — Heverton venceu um concurso de design promovido por Gerard. Apos a vitoria, iniciou servicos pontuais. Em **2025**, migrou para modelo de **design por assinatura** com valor fixo mensal. Gerard gerencia ambos os clientes (Wicks e Stimpson) e contrata Heverton para os dois.
 
-Mesmo modelo da Wicks Unlimited — intermediado por Gerard Rogan. Os anuncios sao submetidos para publicacoes especificas com prazos definidos pelas revistas.
+---
 
-## Publicacoes Alvo
+## Papel de Heverton
 
-- Specialty Fabrics Review (meia pagina e pagina inteira)
-- Marine Fabricator Magazine (pagina inteira)
-- Buyer's Guide (meia pagina)
+**Cargo**: Designer Grafico / Design por Assinatura
+**Execucao**: Heverton realiza pessoalmente as atividades (demanda baixa — execucao solo)
+**Gestao do cliente**: Gerard Rogan (ponto unico de contato)
 
-## Projetos Executados (2026)
+Heverton **nao atende Stimpson diretamente** — toda comunicacao passa por Gerard.
 
-### Anuncios Impressos (Jan a Mai 2026)
+---
+
+## Modelo de Contrato
+
+- **Tipo**: Design por assinatura (retainer mensal)
+- **Valor**: $895/mes
+- **Pagamento via**: Contra.com (mensal, regular)
+- **Moeda**: Dolares americanos
+
+---
+
+## Projetos Executados
+
+### Anuncios Impressos para Revistas Especializadas (2025-2026)
+
+**Publicacoes alvo:**
+- Specialty Fabrics Review
+- Marine Fabricator Magazine
+- Buyer's Guide
+
+**Trabalhos realizados (2026):**
 - Anuncio meia pagina — Specialty Fabrics Review (jan/fev 2026)
-- Anuncio pagina inteira — Marine Fabricator Magazine (jan 2026)
-- Anuncio meia pagina — Buyer's Guide (abr 2026)
-- Variantes de copy testadas e aprovadas pelo cliente
-- Todos entregues com bleeds corretos (0.125") e crop marks
+- Anuncio pagina inteira — Marine Fabricator Magazine (jan/2026)
+- Anuncio meia pagina — Buyer's Guide (abr/2026)
+- Full Page Ad Update — Marco 2026 (retomada apos pausa para Wicks)
+- Variantes de copy testadas e aprovadas
 - Remocao de handle Twitter/X a pedido do cliente
 
-## Especificacoes Tecnicas Recorrentes
-
+**Especificacoes tecnicas recorrentes:**
 - Bleeds: 0.125" (3mm)
 - Exportacao: print-ready com marcas de corte
-- Formatos: PDF
-- Arquivos versionados e organizados por variante
+- Formato: PDF versionado por variante
+
+---
 
 ## Pagamentos Confirmados
 
 Mesma cadencia da Wicks Unlimited — invoices mensais via Contra.com pagas em dia.
 
-## Observacoes
+---
 
-- Stimpson foi colocado "em espera" por Gerard enquanto o Product Guide da Wicks estava em producao
-- Retomado em marco/2026 com Full Page Ad Update
+## Notas
+
+- Stimpson foi colocado em pausa enquanto o catalogo da Wicks estava em producao — retomado em mar/2026
+- Relacionamento de longo prazo (~6 anos) via Gerard, alta confianca e baixo atrito
+- Demanda baixa e previsivel — execucao solo por Heverton sem necessidade de equipe
