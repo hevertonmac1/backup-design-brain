@@ -1,21 +1,34 @@
-# Contexto — Pagme / Marvee (Encerrado)
+# Contexto — Pagme / Marvee
 
-**Status**: ENCERRADO — contrato encerrado junho de 2025
-**Período**: anterior a junho de 2025 (início exato não identificado nos emails)
+**Status**: ENCERRADO — contrato de colaborador encerrado junho de 2025
+**Grupo**: Pagme e Fourbank sao controladas pelos mesmos donos
 
-## Identificação
+---
 
-- **Empresa**: Pagme (produto de pagamentos)
-- **Empresa operadora**: Marvee
-- **Emails**: pagmepagamentos@marvee.com.br | daniela.santos@pagme.app
-- **Contato identificado**: Daniela Santos (pagme.app)
+## Identificacao
 
-## Relação com Fourbank
+- **Empresa**: Pagme (marca) / Marvee (razao social operacional)
+- **Email comercial**: pagmepagamentos@marvee.com.br
+- **Contato adicional**: daniela.santos@pagme.app
+- **Setor**: Fintech de pagamentos
+- **Donos**: Roberto Bornhausen e Jefferson Bornhausen
+  - Os mesmos donos controlam tambem a **Fourbank** (BaaS)
 
-Em maio de 2026, reunião "Fourbank / Pagme - Reunião" foi agendada com luciano.bulich@fourbank.com.br e roberto@fourbank.com.br — confirmando que Pagme e Fourbank estão relacionados (Pagme pode ser produto de pagamento da Fourbank).
+## Historico
 
-## Histórico
+Heverton atuou como **colaborador pessoa fisica** para o grupo Pagme/Fourbank.
+- Natureza do vinculo: colaborador (nao CLT, nao socio)
+- Encerramento: **junho de 2025**
+- NF de encerramento emitida nessa data
+- Relacao encerrada de forma cordial
 
-- Nota fiscal de "encerramento de contrato" emitida por Heverton em junho de 2025
-- NF enviada para pagmepagamentos@marvee.com.br com CC para daniela.santos@pagme.app
-- Natureza do trabalho não detalhada nos emails encontrados
+## Conexao com Fourbank
+
+- Pagme e Fourbank compartilham os mesmos donos (Roberto e Jefferson Bornhausen)
+- O contrato foi formalmente com a Pagme
+- A prospeccao atual (mai/2026) e diretamente com a Fourbank — ver pasta 04_Clientes_Ativos/Fourbank/
+
+## Notas
+
+- Contatos preservados: daniela.santos@pagme.app
+- Qualquer nova oportunidade com o grupo sera gerida pela pasta Fourbank
