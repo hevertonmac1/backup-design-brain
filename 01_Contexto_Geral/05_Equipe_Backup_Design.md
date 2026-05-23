@@ -9,7 +9,7 @@ Heverton é o líder e ponto central da operação. Os demais integrantes são c
 | Pessoa | Papel | Observações |
 |---|---|---|
 | Heverton Andrade | Líder / diretor de produção | Define entregas, revisa tudo, interface com clientes |
-| Igor Gonçalves | Designer sênior / colaborador principal | designer.igor@live.com — parceiro de longa data, trabalha com Heverton em projetos Medportal e outros |
+| Igor Gonçalves | Designer sênior / colaborador principal | [email omitido] — parceiro de longa data, trabalha com Heverton em projetos Medportal e outros |
 | Barbara Prima | Produção de conteúdo / e-learning | Atua em desenvolvimento de cursos, revisão de slides e texto |
 | Felipe | Suporte de produção | Função técnica de apoio, mencionado em entregas do Medportal |
 | Sergio | Suporte de produção | Função técnica de apoio, mencionado em entregas do Medportal |

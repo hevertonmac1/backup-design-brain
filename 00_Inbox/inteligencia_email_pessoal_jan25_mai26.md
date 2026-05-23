@@ -16,7 +16,7 @@ Fonte: hevertonmac@gmail.com
 - Sinaliza novos trabalhos em mai/2026: "Have some interesting work coming up for you"
 
 ### The Slogan Shop LLC
-- Pagou US$2.500 via PayPal em 29/12/2025
+- Pagou valor combinado via PayPal em dez/2025
 - Natureza do projeto nao identificada nos emails
 
 ---
@@ -24,7 +24,7 @@ Fonte: hevertonmac@gmail.com
 ## 2. Encerramento Medportal (Mai 2026)
 
 - Parceria encerrada formalmente em mai/2026 com email de Rachel Macedo
-- Ultimas entregas sendo finalizadas por Heverton e Igor (designer.igor@live.com)
+- Ultimas entregas sendo finalizadas por Heverton e Igor ([email omitido])
 - Conteudos finais: cursos SCORM, audio IA via Geniali, legendas
 - Encerramento cordial — sem conflito
 
@@ -52,13 +52,13 @@ Fonte: hevertonmac@gmail.com
 - Divida renegociada com Itau em atraso (parcelas mensais, cobrancas recorrentes)
 - Assinatura Contra.com com falha de pagamento em mai/2026 ($79/mes) — URGENTE
 - Perfil de disponibilidade no Contra expirado — atualizar
-- PayPal com receitas internacionais solidas: R$12.462 transferidos em dez/2025
+- PayPal com receitas internacionais solidas: valor significativo transferido em dez/2025
 
 ---
 
 ## 6. Colaborador Identificado
 
-- Igor (designer.igor@live.com) — subcontratado para producao Medportal
+- Igor ([email omitido]) — subcontratado para producao Medportal
 
 ---
 

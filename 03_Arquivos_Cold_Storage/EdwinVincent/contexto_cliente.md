@@ -8,9 +8,9 @@
 ## Identificacao
 
 - **Cliente**: Edwin Vincent
-- **Emails**: edwinvincent@gmail.com | edwin.vincent@cdk.com
+- **Emails**: [email omitido] | edwin.vincent@cdk.com
 - **Empresa**: CDK Global (software automotivo — concessionarias e montadoras)
-- **Outro participante**: birdkosaking@gmail.com
+- **Outro participante**: [email omitido]
 
 ## Projeto — Nutragenie
 
@@ -48,4 +48,4 @@
 
 - Edwin e product manager/stakeholder em CDK Global — Nutragenie aparenta ser projeto pessoal/paralelo
 - Projeto entregue e encerrado sem pendencias identificadas
-- Contato preservado: edwinvincent@gmail.com
+- Contato preservado: [email omitido]

@@ -109,6 +109,6 @@ Em paralelo aos projetos freelance, Heverton aplicou para vagas CLT/cooperativa:
 - **99designs**: portfólio ativo — "Battlewar" curtido em mar/2025
 - **gov.br**: múltiplos acessos de novos dispositivos em mar/2025 (alerta de segurança)
 - **Algar Telecom**: faturas em nome de "BENEDITO SIMAO DE ANDRADE MACIEL" — familiar (pai?) no endereço de Heverton
-- **Stripe payout**: R$4.786,47 para Backup Design em 31/03/2025
+- **Stripe payout**: valor omitido — Backup Design em mar/2025
 - **AcordoCerto (Itaú)**: múltiplos alertas de dívida e negativação (mar/2025 em diante)
 - **Roblox/Xsolla**: compra de R$117,90 em 30/03/2025 — filho(a) joga Fortnite/Roblox (parental controls ativo)

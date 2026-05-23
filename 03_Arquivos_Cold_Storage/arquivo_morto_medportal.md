@@ -19,12 +19,12 @@ Trecho relevante: "Queria comecar te agradecendo pela parceria ao longo desses a
 - **Rachel Macedo** — rachel.macedo@medportal.com.br (contato executivo)
 - **Julia Garcia** — julia.garcia@medportal.com.br (gestora de producao de conteudo)
 - **Carlos Sakuragui** — carlos.sakuragui@medportal.com.br (envolvido nas entregas)
-- **Viviane Zanetti** — vivimcbzanetti@gmail.com (cc nos emails de producao)
+- **Viviane Zanetti** — [email omitido] (cc nos emails de producao)
 - **Lindsay Capelli** — lindsay.capelli@medportal.com.br (agendamento de reunioes)
 
 ## Colaborador Interno Usado
 
-- **Igor** — designer.igor@live.com (Heverton encaminhava briefings de producao para Igor)
+- **Igor** — [email omitido] (Heverton encaminhava briefings de producao para Igor)
 
 ## Conteudos em Producao na Fase Final (Mai 2026)
 

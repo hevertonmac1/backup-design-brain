@@ -9,7 +9,7 @@ Situacao financeira mista: receitas internacionais crescentes (PayPal, Contra), 
 ### Internacionais (PayPal)
 - **The Slogan Shop LLC (EUA):** US$2.500 recebidos em 29/12/2025
 - **Gerard Rogan / Dreamweaver Brand (EUA):** pagamentos mensais via Contra.com (Wicks + Stimpson), complementos via PayPal (ex: $200 extra em abr/2026)
-- Transferencia de R$12.462,01 do PayPal para conta bancaria em 30/12/2025
+- Transferencia de valor significativo do PayPal para conta bancaria em dez/2025
 
 ### Nacionais
 - Medportal: producao de conteudo (encerrado mai/2026)
@@ -21,7 +21,7 @@ Situacao financeira mista: receitas internacionais crescentes (PayPal, Contra), 
 ### Itau (CRITICO)
 - Divida renegociada em andamento
 - Parcelas em atraso — emails de cobranca recorrentes (dez/2025 a mai/2026)
-- Boleto de renegociacao: R$35.784,66 (ITAU UNIBANCO HOLDING) e R$28.874,50 (ITAU UNIBANCO SA) — ambos venciam jan/2026
+- Boleto de renegociacao: [valores omitidos por segurança] — vencimento jan/2026
 - Emails da Acordo Certo sobre impacto no score de credito
 
 ### C6 Bank — TMB SERVICOS LTDA

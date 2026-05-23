@@ -4,10 +4,10 @@
 
 - **Nome completo:** Heverton Andrade Maciel
 - **Email pessoal:** hevertonmac@gmail.com
-- **WhatsApp:** +55 34 9 9831-0579
+- **WhatsApp:** [omitido por segurança]
 - **LinkedIn:** https://www.linkedin.com/in/hevertonmac (inferido das assinaturas)
 - **PayPal:** hevertonmac@gmail.com
-- **Kindle:** hevertonmac@kindle.com
+
 
 ## Assinatura Padrao de Email
 
@@ -23,7 +23,7 @@ Heverton opera em tres frentes simultaneas:
 
 ## Aprendizado de Ingles
 
-- "English Time" — aulas via Zoom, link fixo: https://us05web.zoom.us/j/87814084449
+- "English Time" — aulas via Zoom, link fixo: [link privado — omitido por segurança]
 - Frequencia: 3x por semana, dias variaveis (seg, ter, qui, sex)
 - Horario: 19:30-20:00 BRT (30 minutos por sessao)
 - Investimento consistente e de longo prazo — visible desde mai/2026 no minimo
@@ -40,7 +40,7 @@ Heverton opera em tres frentes simultaneas:
 
 ## Colaborador Externo
 
-- **Igor** — designer.igor@live.com — Designer freelancer que Heverton subcontrata para producao de conteudo Medportal
+- **Igor** — [email omitido] — Designer freelancer que Heverton subcontrata para producao de conteudo Medportal
 
 ## Historico Recente de Parcerias / Projetos Relevantes
 

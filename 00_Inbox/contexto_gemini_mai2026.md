@@ -10,7 +10,7 @@ Este documento resume todo o contexto operacional, estratégico e pessoal de Hev
 **Nome completo**: Heverton Andrade Maciel
 **Profissão**: Product Designer Senior / Design Engineer / Founder
 **Email pessoal**: hevertonmac@gmail.com
-**WhatsApp**: +55 34 9 9831-0579
+**WhatsApp**: [omitido por segurança]
 **Localização**: Brasil (Triângulo Mineiro — região de Monte Carmelo/MG)
 
 Heverton opera simultaneamente em três frentes:
@@ -73,7 +73,7 @@ Duas grandes entregas:
 | Pessoa | Papel | Contato |
 |---|---|---|
 | Heverton Andrade | Líder / Founder / Design Engineer | hevertonmac@gmail.com |
-| Igor Gonçalves | Designer sênior / colaborador principal | designer.igor@live.com |
+| Igor Gonçalves | Designer sênior / colaborador principal | [email omitido] |
 | Barbara Prima | Produção de conteúdo / e-learning | — |
 | Felipe | Suporte de produção | — |
 | Sergio | Suporte de produção | — |
@@ -245,7 +245,7 @@ Módulos em andamento (mai/2026): OKR V2 (protótipo aprovado em sizing), Univer
 
 1. **PGFN CANCELADO** — crítico. Contatar Kathiane para reparcelamento urgente.
 2. **MEI parcelamento** — 3 parcelas em atraso (fev/mar/abr/2026): R$183,75.
-3. **Itaú** — dívida em renegociação (boletos R$35k e R$28k), cobranças ativas via Acordo Certo.
+3. **Itaú** — dívida em renegociação (boletos de valores elevados), cobranças ativas via Acordo Certo.
 4. **Contra.com** — assinatura $79/mês com falha de pagamento em mai/2026. Regularizar.
 5. **Clientes internacionais via PayPal** — verificar com Kathiane tratamento fiscal correto (Carnê-Leão?).
 
@@ -274,7 +274,7 @@ Módulos em andamento (mai/2026): OKR V2 (protótipo aprovado em sizing), Univer
 | Bruno Delorence | Smartleader | Gestor/produto | Email corporativo |
 | Raphael Porfirio | Smartleader | Produto | Email corporativo |
 | Kathiane | Lidera Contábil | Contadora | WhatsApp |
-| Igor Gonçalves | Backup Design | Colaborador sênior | designer.igor@live.com |
+| Igor Gonçalves | Backup Design | Colaborador sênior | [email omitido] |
 
 ---
 
