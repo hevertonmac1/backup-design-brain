@@ -6,10 +6,10 @@
 * **Meta Principal:** Atingir R$ 100.000 de lucro liquido distribuivel, exigindo um faturamento bruto de R$ 230.000 / mes.
 
 ## 2. Fases de Transicao (Atualizado)
-* **Fase 1: Otimizacao de Legado**
-    * Encerramento Contratual: Finalizar o ultimo mes de prestacao de servico para o Medportal (Conta descontinuada para liberacao de agenda operacional).
-    * Smartleader (Gargalo Ativo): Mudar posicionamento de "colaborador" para "consultor". Estabelecer entregas em Sprints (lotes) restritos a dias especificos para blindar a agenda do Founder.
-* **Fase 2: Escala Local (Fintechs)**
+* **Fase 1: Otimizacao de Legado (CONCLUIDA)**
+    * Medportal: Encerrado mai/2026.
+    * Smartleader: Encerrado 29/05/2026. Founder agora com dedicacao exclusiva a Backup Design.
+* **Fase 2: Escala Local (Fintechs) — EM ANDAMENTO**
     * Injetar a matriz Fourbank (Setup Zero) e a Pagme (Setup 50% OFF).
     * Iniciar prospeccao na carteira de clientes BaaS.
 * **Fase 3: Alavancagem Internacional**

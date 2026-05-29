@@ -13,13 +13,13 @@
 
 "Heverton A. Maciel — Product Designer / UX / UI Specialist"
 
-## Situacao Profissional Atual (Mai 2026)
+## Situacao Profissional Atual (Mai 2026 — ATUALIZADO 29/05)
 
-Heverton opera em tres frentes simultaneas:
+Heverton agora opera com DEDICACAO EXCLUSIVA aos projetos da Backup Design:
 
-1. **Smartleader** — Colaborador formal (via cooperativa), Product Design Senior, remoto, seg-sex 8h/dia
-2. **Backup Design** — Empresa propria de design e engenharia, clientes ativos nacionais e internacionais
-3. **Medportal** — Producao de conteudo e-learning (encerrado em mai/2026)
+1. **Backup Design** — Empresa propria de design e engenharia, clientes ativos nacionais e internacionais. Foco total.
+2. ~~**Smartleader**~~ — ENCERRADO em 29/05/2026. Colaborador formal Product Designer Senior via cooperativa de 09/09/2025 a 29/05/2026.
+3. ~~**Medportal**~~ — ENCERRADO em mai/2026. Producao de conteudo e-learning.
 
 ## Aprendizado de Ingles
 

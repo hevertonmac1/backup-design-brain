@@ -1,7 +1,9 @@
 # Contexto do Cliente — Smartleader
 
-**Status**: ATIVO — colaborador formal via cooperativa
+**Status**: ENCERRADO — ultimo dia 29/05/2026
 **Inicio**: 09 de setembro de 2025
+**Encerramento**: 29 de maio de 2026
+**Motivo**: Dedicacao exclusiva aos projetos da Backup Design
 **Regime**: Contrato via cooperativa — salario/hora, pagamento mensal
 **Jornada**: Segunda a sexta, 8h/dia (presenca integral remota)
 
