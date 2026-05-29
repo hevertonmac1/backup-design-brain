@@ -2,30 +2,34 @@
 
 ## Status
 
-NEGOCIACAO DE ENTRADA NA SOCIEDADE — mai/2026
+NEGOCIACAO AVANCADA — REDESENHO DO MODELO APROVADO — mai/2026
 
 ## Contexto
 
-Hub de Inteligencia e Mastermind High Ticket para cafeicultores do Cerrado Mineiro (Monte Carmelo, MG).
-Heverton entra como Socio Administrativo (Administrativo Geral).
-Backup Design entra como parceira tecnologica e aceleradora oficial.
+Hub de Inteligencia, Dados e Comunidade para cafeicultores do Cerrado Mineiro (Monte Carmelo, MG).
+Modelo reestruturado: de plataforma de cursos para Hub com IA, audio sob demanda e comunidade.
+Governanca horizontalizada — sem CEO central, 6 cadeiras C-Level.
+Heverton: CPO e Head of Operations (20% de equity).
+Backup Design: parceira tecnologica oficial.
 
-## Socios
+## Socios e Equity
 
-- Eduardo Soares — Revista Repleta + Estudio de gravacao
-- Luiz Gustavo Silva Rabelo — Governanca financeira
-- Miqueias Mauricio de Azevedo — Trafego pago e marketing
-- Fabio Henrique Gomes — Plataforma digital e automacoes
-- Priscila Loire da Silva — Embaixadora institucional / relacionamento VIP
-- Heverton Andrade — Socio Administrativo / Backup Design (tecnologia e IA)
+| Socio | Cadeira | Equity |
+|---|---|---|
+| Heverton Andrade | CPO & Head of Operations | 20% |
+| Eduardo Soares | CCO & Head of Media | 20% |
+| Luiz Gustavo Rabelo | CFO | 20% |
+| Miqueias Azevedo | CGO | 15% |
+| Priscila Loire | CCO (Community) | 15% |
+| Fabio Henrique Gomes | Head of Platform | 10% |
 
-## Pendencias Antes de Assinar
+## Modelo Financeiro
 
-- [ ] Aprovar redesign de marca (nova identidade premium — Backup Design executa)
-- [ ] Reestruturar cadeiras no contrato — remover omissoes do setor administrativo anterior (Renan)
-- [ ] Definir quotas e poder de deliberacao de Heverton desde o Dia 1
-- [ ] Formalizar contrato intercompany: Backup Design como fornecedora tecnologica da VALORY (licenciamento ou comissao por assinatura)
+- Retainer Backup Design: R$5.000/mes (ativado apos breakeven — 11o cliente)
+- Total intercompany: R$12.500/mes
+- Duas frentes de receita: B2C Mid-Ticket (R$5-8K/ano) e B2B2C Corporativo (R$60-150K+)
 
 ## Arquivos
 
-- 01_Planejamento_Estrategico_Valory.md — Planejamento completo: posicionamento, planos, viabilidade financeira, estrategia de execucao bootstrap.
+- 01_Planejamento_Estrategico_Valory.md — Planejamento inicial: posicionamento, planos, viabilidade financeira, execucao bootstrap.
+- 02_Redesenho_Modelo_Negocios.md — Redesenho completo: governanca C-Suite, pivo de ICP (B2C + B2B2C), engenharia financeira intercompany, analise competitiva, perguntas pendentes para o Luiz.
